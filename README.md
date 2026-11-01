@@ -29,3 +29,7 @@ Link: https://claude.ai/share/55d1a4d9-72ac-48cf-a0d0-17112b428424
 - Asking whether adding more lines would be worth it -> decision: no
 - Asking for a description of each bloc of code he gave me for the elements that were missing from my original work
 - Revue conclusion -> not good enough, needs to be improved -> which I tried to improve without losing the essence of my own conclusions
+
+# Kaggle dataset
+https://www.kaggle.com/datasets/mykhailokachan/overwatch-2-statistics/data
+(I just barely modified the name of the .csv by removing the date 2023-05-06 at the end, which corresponds to the time the dataset was made, and not when the seasons took place, which could be confusion)
