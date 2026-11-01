@@ -1,3 +1,13 @@
+# Organisation
+
+- from the 16th to the 25th of October, spent that time choosing the dataset, wondering whether my initial idea could be viable (Overwatch), which in fact was but on some specific points, it's a bit difficult to get good conclusion.
+Last week (26/10 to 01/11):
+- first tried to display the data from the datasets, trying to make a plot that was visually understandable and useful.
+- then made some written conclusion about why win rates were changing by using data via web scraping that I found on the Overwatch official website
+- then, towards the end of the week, realized I forgot to add the merging part between the data from the dataset and the data from the web scraping (didn't really know what to do here honestly)
+- added comments and the conclusion
+(and realising too late I had to push progressively on github)
+
 # Prompts
 
 Link: https://claude.ai/share/55d1a4d9-72ac-48cf-a0d0-17112b428424
@@ -18,4 +28,4 @@ Link: https://claude.ai/share/55d1a4d9-72ac-48cf-a0d0-17112b428424
 - Asking what would I need to implement and for what reason -> over multiple prompts, trying to figure out what the AI was talking about + code generated
 - Asking whether adding more lines would be worth it -> decision: no
 - Asking for a description of each bloc of code he gave me for the elements that were missing from my original work
-- Revue conclusion -> not good enough, needs to be improved
+- Revue conclusion -> not good enough, needs to be improved -> which I tried to improve without losing the essence of my own conclusions
